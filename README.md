@@ -154,7 +154,7 @@ that’s exactly what I do.
 <a name="contact"></a>
 ## 🔗 Send Guild Invite — Connect
 
-- 📧 **Email:** `akassharangi.official@gmail.com`  
+- 📧 **Email:** `akashsarangi.official@gmail.com`  
 - 🧪 **GitHub:** https://github.com/Roxen-AS  
   
 
